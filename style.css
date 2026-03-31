@@ -28,9 +28,51 @@ body{
 
 .liste-discographie{
     color: #1351d9;
-    text-align: center;
+    margin-left: 500px;
     font-size: 20px;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
     font-family: "Bungee", sans-serif;
+    list-style-position: inside;
+    
+}
+.musique-adn{
+    position: absolute;
+    left: 525px;
+    top: 600px;
+}
+.musique-silhouette{
+    position: absolute;
+    left: 525px;
+    top: 460px;
+}
+.musique-mortelle{
+    position: absolute;
+    left: 525px;
+    top: 735px;
+}
+.musique-meteo{
+    position: absolute;
+    left: 525px;
+    top: 870px;
+}
+.musique-bizarre{
+    position: absolute;
+    left: 525px;
+    top: 1010px;
+}
+.musique-tete{
+    position: absolute;
+    left: 525px;
+    top: 1140px;
+}
+.musique-cry{
+    position: absolute;
+    left: 525px;
+    top: 1280px;
+}
+.musique-seul{
+    position: absolute;
+    left: 525px;
+    top: 1420px;
 }
