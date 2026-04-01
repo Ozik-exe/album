@@ -34,9 +34,7 @@ body{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
     font-family: "Bungee", sans-serif;
-}
-    list-style-position: inside;
-    
+    list-style-type: inside;
 }
 .musique-adn{
     position: absolute;
